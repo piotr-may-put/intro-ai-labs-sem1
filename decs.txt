@@ -1,0 +1,149 @@
+cluster 1:
+Old pensioners with low income, health index and. 
+Very low work and sport activity time.
+
+cluster 2:
+Teens and young adults. Various salary from nearly no income to 2k.
+Various health index, from low to nearly maximum.
+Medium work time. High activity time.
+
+cluster 3:
+Old pensioners with low income, health index and. 
+Work and sport activity time near 0.
+
+cluster 4:
+Adults before retirement age.
+Best income from all groups. 
+Mosty good health with few exeptions.
+Highest work and activity time.
+
+
+for data:
+Compleated after:  6  steps
+For cluster:  1 
+
+For column:  Age
+Mean:  72.13807923597055
+Max value:  79.5991240593619
+Min value:  64.89406127760394
+Standard deviation:  3.297776372029706 
+
+For column:  Salary
+Mean:  1721.8119891332594
+Max value:  2109.9571085533307
+Min value:  1292.5636005783972
+Standard deviation:  197.23771179016333 
+
+For column:  Health index
+Mean:  26.032394143622962
+Max value:  37.04492310916373
+Min value:  16.286129301814128
+Standard deviation:  5.1391500514530986 
+
+For column:  Work time
+Mean:  3.732833873743083
+Max value:  9.612156190801082
+Min value:  0.44174061239315215
+Standard deviation:  2.6643546252377623 
+
+For column:  Activity time
+Mean:  2.6580665868768962
+Max value:  4.3456307057747035
+Min value:  0.36909984234470183
+Standard deviation:  1.0177129808308665 
+
+For cluster:  2 
+
+For column:  Age
+Mean:  21.644690565030707
+Max value:  36.853083616766504
+Min value:  15.012362258670485
+Standard deviation:  3.6096367704747476 
+
+For column:  Salary
+Mean:  827.371745158321
+Max value:  2187.5198556077435
+Min value:  5.682015914647337
+Standard deviation:  674.8163237920188 
+
+For column:  Health index
+Mean:  54.00266275252987
+Max value:  99.881408211431
+Min value:  24.446376274815762
+Standard deviation:  22.16923028194329 
+
+For column:  Work time
+Mean:  28.459914766166023
+Max value:  50.72842179502887
+Min value:  10.657911584484529
+Standard deviation:  12.395066419871666 
+
+For column:  Activity time
+Mean:  6.070635245115174
+Max value:  17.72059446085231
+Min value:  0.3201738641144276
+Standard deviation:  5.3389985955392865 
+
+For cluster:  3 
+
+For column:  Age
+Mean:  65.3203412361639
+Max value:  71.86634701109446
+Min value:  57.89447841194933
+Standard deviation:  3.1356461067944204 
+
+For column:  Salary
+Mean:  1772.544114561684
+Max value:  2133.53479799757
+Min value:  1291.1384999397003
+Standard deviation:  277.7087587369293 
+
+For column:  Health index
+Mean:  22.614312873116123
+Max value:  35.07873717156281
+Min value:  12.913542297443495
+Standard deviation:  5.793177681726475 
+
+For column:  Work time
+Mean:  2.744114379609245
+Max value:  7.178739382712599
+Min value:  0.02237807600858785
+Standard deviation:  1.9797614228500713 
+
+For column:  Activity time
+Mean:  1.5884418614312652
+Max value:  3.6297676800562266
+Min value:  0.11155649970376369
+Standard deviation:  0.9106624299545939 
+
+For cluster:  4 
+
+For column:  Age
+Mean:  45.17755356023117
+Max value:  68.66380009272345
+Min value:  20.966947840003726
+Standard deviation:  11.292111746919586 
+
+For column:  Salary
+Mean:  4419.092888893447
+Max value:  6784.1019258316755
+Min value:  1403.3704209479874
+Standard deviation:  1188.7483426806318 
+
+For column:  Health index
+Mean:  62.658689119181695
+Max value:  98.7074566284996
+Min value:  16.510679111040552
+Standard deviation:  18.474312146215993 
+
+For column:  Work time
+Mean:  45.76538245318303
+Max value:  59.98286275905256
+Min value:  27.00970454921195
+Standard deviation:  8.697060138614018 
+
+For column:  Activity time
+Mean:  8.203311193323385
+Max value:  19.538265943140427
+Min value:  0.07828167791577645
+Standard deviation:  6.124200829279842 
